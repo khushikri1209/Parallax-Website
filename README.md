@@ -1,5 +1,5 @@
 # Parallax-Website
-"Parallax Website (Nature) is a visually stunning web project that uses smooth scrolling parallax effects to create an immersive experience, bringing the beauty of nature to life with dynamic backgrounds and engaging animations." 🔗 [Parallax-Website](https://shubhamkumarraman.github.io/Parallax-Website/)
+"Parallax Website (Nature) is a visually stunning web project that uses smooth scrolling parallax effects to create an immersive experience, bringing the beauty of nature to life with dynamic backgrounds and engaging animations." 🔗 [Parallax-Website](https://khushikri1209.github.io/Parallax-Website/)
 # 🌿 Parallax Website (Nature) 🌍
 
 ## ✨ Overview
@@ -20,8 +20,7 @@ Parallax Website (Nature) is a visually immersive web project that uses smooth s
 ## 📂 Installation & Usage
 1. **📥 Clone the Repository:**  
    ```sh
-   git clone https://github.com/ShubhamKumarRaman/Parallax-Website.git
-   ```
+   git clone https://github.com/khushikri1209/Parallax-Website
 
 ## ✨ Overview
 Parallax Website (Nature) is a visually immersive web project that uses smooth scrolling parallax effects to showcase the beauty of nature. This project enhances user experience with engaging animations and dynamic backgrounds, making the website feel interactive and lively. 🌿🌄
@@ -41,7 +40,7 @@ Parallax Website (Nature) is a visually immersive web project that uses smooth s
 ## 📂 Installation & Usage
 1. **📥 Clone the Repository:**  
    ```sh
-   git clone https://github.com/ShubhamKumarRaman/parallax-website-nature.git
+   git clone https://github.com/khushikri1209/Parallax-Website.git
    ```
 2. **📁 Navigate to the Project Directory:**  
    ```sh
@@ -60,12 +59,10 @@ Parallax Website (Nature) is a visually immersive web project that uses smooth s
 
 ## 🤝 Contributing
 🚀 Contributions are welcome! Feel free to fork this project and submit a pull request.  
-
-## 📧 Contact
-📩 For any inquiries or suggestions, reach out at **shubham582120@gmail.com**.  
+  
 
 ## 🌐 Live Preview
-🔗 [Click here to view the live demo](https://shubhamkumarraman.github.io/Parallax-Website/)  
+🔗 [Click here to view the live demo](https://khushikri1209.github.io/Parallax-Website/)  
 
 🌍✨ Enjoy building and customizing your **Parallax Website (Nature)!** 🎉
 
