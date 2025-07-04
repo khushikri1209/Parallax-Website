@@ -1,0 +1,31 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency directories (if any)
+node_modules/
+vendor/
+
+# Ignore compiled and minified files
+*.min.js
+*.min.css
+*.map
+
+# Ignore environment variables
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs and cache
+logs/
+*.log
+.cache/
+
+# Ignore build/output directories (if any)
+/dist/
+/out/
+
+# Ignore temporary files
+*.tmp
+*.swp
